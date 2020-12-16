@@ -1,0 +1,7 @@
+G:\Xamarin\JpegTransformConsole\JpegTransformConsole\bin\Debug\JpegTransformConsole.exe.config
+G:\Xamarin\JpegTransformConsole\JpegTransformConsole\bin\Debug\JpegTransformConsole.exe
+G:\Xamarin\JpegTransformConsole\JpegTransformConsole\bin\Debug\JpegTransformConsole.pdb
+G:\Xamarin\JpegTransformConsole\JpegTransformConsole\obj\Debug\JpegTransformConsole.csprojAssemblyReference.cache
+G:\Xamarin\JpegTransformConsole\JpegTransformConsole\obj\Debug\JpegTransformConsole.csproj.CoreCompileInputs.cache
+G:\Xamarin\JpegTransformConsole\JpegTransformConsole\obj\Debug\JpegTransformConsole.exe
+G:\Xamarin\JpegTransformConsole\JpegTransformConsole\obj\Debug\JpegTransformConsole.pdb
